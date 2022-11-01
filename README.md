@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Omar 👋
+
+I'm an embedded engineer thats currently working on improving the learning curve of Embedded Rust 🦀
+
+To follow me on Twitter 
+Subscribe to newsletter for updates http://subscribepage.io/apollolabsnewsletter
+
 
 <!--
 **apollolabsdev/apollolabsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
