@@ -18,4 +18,8 @@ Here are some ideas to get you started:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+ - 💫 [4 Simple Steps for Creating a Platform Agnostic Driver in Rust](https://apollolabsblog.hashnode.dev/4-simple-steps-for-creating-a-platform-agnostic-driver-in-rust)
+ - 🌮 [Rust Embedded Graphics with the MAX7219](https://apollolabsblog.hashnode.dev/rust-embedded-graphics-with-the-max7219)
+ - 💫 [Platform Agnostic Drivers in Rust: Publishing to Crates.io](https://apollolabsblog.hashnode.dev/platform-agnostic-drivers-in-rust-publishing-to-cratesio)
+ - 🚀 [Platform Agnostic Drivers in Rust: The MAX7219 Driver](https://apollolabsblog.hashnode.dev/platform-agnostic-drivers-in-rust-the-max7219-driver)
+ - 💫 [Platform Agnostic Drivers in Rust: MAX7219 Naive Code Refactoring](https://apollolabsblog.hashnode.dev/platform-agnostic-drivers-in-rust-max7219-naive-code-refactoring)<!-- BLOGPOSTS:END -->
