@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 #### :books: Some Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [4-Step Primer on Navigating Embedded Rust HAL Documentation](https://apollolabsblog.hashnode.dev/4-step-primer-on-navigating-embedded-rust-hal-documentation)
- - 🌮 [34 Must Know Terms for Embedded Rust Newbies](https://apollolabsblog.hashnode.dev/34-must-know-terms-for-embedded-rust-newbies)
- - 💫 [4 Simple Steps for Creating a Platform Agnostic Driver in Rust](https://apollolabsblog.hashnode.dev/4-simple-steps-for-creating-a-platform-agnostic-driver-in-rust)
- - 🚀 [Rust Embedded Graphics with the MAX7219](https://apollolabsblog.hashnode.dev/rust-embedded-graphics-with-the-max7219)
- - 💫 [Platform Agnostic Drivers in Rust: Publishing to Crates.io](https://apollolabsblog.hashnode.dev/platform-agnostic-drivers-in-rust-publishing-to-cratesio)<!-- BLOGPOSTS:END -->
+ - 💫 [Embedded Rust &amp; Embassy: GPIO Button Controlled Blinking](https://apollolabsblog.hashnode.dev/embedded-rust-embassy-gpio-button-controlled-blinking)
+ - 🌮 [4-Step Primer on Navigating Embedded Rust HAL Documentation](https://apollolabsblog.hashnode.dev/4-step-primer-on-navigating-embedded-rust-hal-documentation)
+ - 💫 [34 Must Know Terms for Embedded Rust Newbies](https://apollolabsblog.hashnode.dev/34-must-know-terms-for-embedded-rust-newbies)
+ - 🚀 [4 Simple Steps for Creating a Platform Agnostic Driver in Rust](https://apollolabsblog.hashnode.dev/4-simple-steps-for-creating-a-platform-agnostic-driver-in-rust)
+ - 💫 [Rust Embedded Graphics with the MAX7219](https://apollolabsblog.hashnode.dev/rust-embedded-graphics-with-the-max7219)<!-- BLOGPOSTS:END -->
