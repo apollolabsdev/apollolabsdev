@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 #### :books: Some Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Embedded Rust &amp; Embassy: I2C Temperature Sensing with BMP180](https://apollolabsblog.hashnode.dev/embedded-rust-embassy-i2c-temperature-sensing-with-bmp180)
- - 🌮 [Embedded Rust &amp; Embassy: Analog Sensing with ADCs](https://apollolabsblog.hashnode.dev/embedded-rust-embassy-analog-sensing-with-adcs)
- - 💫 [Embedded Rust &amp; Embassy: PWM Generation](https://apollolabsblog.hashnode.dev/embedded-rust-embassy-pwm-generation)
- - 🚀 [Embedded Rust &amp; Embassy: UART Serial Communication](https://apollolabsblog.hashnode.dev/embedded-rust-embassy-uart-serial-communication)
- - 💫 [Embedded Rust &amp; Embassy: GPIO Button Controlled Blinking](https://apollolabsblog.hashnode.dev/embedded-rust-embassy-gpio-button-controlled-blinking)<!-- BLOGPOSTS:END -->
+ - 💫 [Embedded Rust and Embassy: Timer Ultrasonic Distance Measurement](https://apollolabsblog.hashnode.dev/embedded-rust-and-embassy-timer-ultrasonic-distance-measurement)
+ - 🌮 [Embedded Rust &amp; Embassy: I2C Temperature Sensing with BMP180](https://apollolabsblog.hashnode.dev/embedded-rust-embassy-i2c-temperature-sensing-with-bmp180)
+ - 💫 [Embedded Rust &amp; Embassy: Analog Sensing with ADCs](https://apollolabsblog.hashnode.dev/embedded-rust-embassy-analog-sensing-with-adcs)
+ - 🚀 [Embedded Rust &amp; Embassy: PWM Generation](https://apollolabsblog.hashnode.dev/embedded-rust-embassy-pwm-generation)
+ - 💫 [Embedded Rust &amp; Embassy: UART Serial Communication](https://apollolabsblog.hashnode.dev/embedded-rust-embassy-uart-serial-communication)<!-- BLOGPOSTS:END -->
