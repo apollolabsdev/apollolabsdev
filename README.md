@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 #### :books: Some Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Sharing Data Among Tasks in Rust Embassy: Synchronization Primitives](https://apollolabsblog.hashnode.dev/sharing-data-among-tasks-in-rust-embassy-synchronization-primitives)
- - 🌮 [Embedded Rust and Embassy: DMA Controllers](https://apollolabsblog.hashnode.dev/embedded-rust-and-embassy-dma-controllers)
- - 💫 [Embedded Rust and Embassy: Timer Ultrasonic Distance Measurement](https://apollolabsblog.hashnode.dev/embedded-rust-and-embassy-timer-ultrasonic-distance-measurement)
- - 🚀 [Embedded Rust &amp; Embassy: I2C Temperature Sensing with BMP180](https://apollolabsblog.hashnode.dev/embedded-rust-embassy-i2c-temperature-sensing-with-bmp180)
- - 💫 [Embedded Rust &amp; Embassy: Analog Sensing with ADCs](https://apollolabsblog.hashnode.dev/embedded-rust-embassy-analog-sensing-with-adcs)<!-- BLOGPOSTS:END -->
+ - 💫 [Rust FFI and bindgen: Integrating Embedded C Code in Rust](https://apollolabsblog.hashnode.dev/rust-ffi-and-bindgen-integrating-embedded-c-code-in-rust)
+ - 🌮 [Sharing Data Among Tasks in Rust Embassy: Synchronization Primitives](https://apollolabsblog.hashnode.dev/sharing-data-among-tasks-in-rust-embassy-synchronization-primitives)
+ - 💫 [Embedded Rust and Embassy: DMA Controllers](https://apollolabsblog.hashnode.dev/embedded-rust-and-embassy-dma-controllers)
+ - 🚀 [Embedded Rust and Embassy: Timer Ultrasonic Distance Measurement](https://apollolabsblog.hashnode.dev/embedded-rust-and-embassy-timer-ultrasonic-distance-measurement)
+ - 💫 [Embedded Rust &amp; Embassy: I2C Temperature Sensing with BMP180](https://apollolabsblog.hashnode.dev/embedded-rust-embassy-i2c-temperature-sensing-with-bmp180)<!-- BLOGPOSTS:END -->
