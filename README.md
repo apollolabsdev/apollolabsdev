@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 #### :books: Some Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Rust FFI and cbindgen: Integrating Embedded Rust Code in C](https://apollolabsblog.hashnode.dev/rust-ffi-and-cbindgen-integrating-embedded-rust-code-in-c)
- - 🌮 [Rust FFI and bindgen: Integrating Embedded C Code in Rust](https://apollolabsblog.hashnode.dev/rust-ffi-and-bindgen-integrating-embedded-c-code-in-rust)
- - 💫 [Sharing Data Among Tasks in Rust Embassy: Synchronization Primitives](https://apollolabsblog.hashnode.dev/sharing-data-among-tasks-in-rust-embassy-synchronization-primitives)
- - 🚀 [Embedded Rust and Embassy: DMA Controllers](https://apollolabsblog.hashnode.dev/embedded-rust-and-embassy-dma-controllers)
- - 💫 [Embedded Rust and Embassy: Timer Ultrasonic Distance Measurement](https://apollolabsblog.hashnode.dev/embedded-rust-and-embassy-timer-ultrasonic-distance-measurement)<!-- BLOGPOSTS:END -->
+ - 💫 [What the HAL? The Quest for Finding a Suitable Embedded Rust HAL](https://apollolabsblog.hashnode.dev/what-the-hal-the-quest-for-finding-a-suitable-embedded-rust-hal)
+ - 🌮 [Rust FFI and cbindgen: Integrating Embedded Rust Code in C](https://apollolabsblog.hashnode.dev/rust-ffi-and-cbindgen-integrating-embedded-rust-code-in-c)
+ - 💫 [Rust FFI and bindgen: Integrating Embedded C Code in Rust](https://apollolabsblog.hashnode.dev/rust-ffi-and-bindgen-integrating-embedded-c-code-in-rust)
+ - 🚀 [Sharing Data Among Tasks in Rust Embassy: Synchronization Primitives](https://apollolabsblog.hashnode.dev/sharing-data-among-tasks-in-rust-embassy-synchronization-primitives)
+ - 💫 [Embedded Rust and Embassy: DMA Controllers](https://apollolabsblog.hashnode.dev/embedded-rust-and-embassy-dma-controllers)<!-- BLOGPOSTS:END -->
