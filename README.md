@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 #### :books: Some Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [STM32F4 Embedded Rust at the PAC: SysTick Delay](https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-pac-systick-delay)
- - 🌮 [STM32F4 Embedded Rust at the PAC: System Clock Configuration](https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-pac-system-clock-configuration)
- - 💫 [STM32F4 Embedded Rust at the PAC: GPIO Control](https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-pac-gpio-control)
- - 🚀 [STM32F4 Embedded Rust at the PAC: svd2rust](https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-pac-svd2rust)
- - 💫 [What the HAL? The Quest for Finding a Suitable Embedded Rust HAL](https://apollolabsblog.hashnode.dev/what-the-hal-the-quest-for-finding-a-suitable-embedded-rust-hal)<!-- BLOGPOSTS:END -->
+ - 💫 [STM32F4 Embedded Rust at the PAC: UART Communication](https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-pac-uart-communication)
+ - 🌮 [STM32F4 Embedded Rust at the PAC: SysTick Delay](https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-pac-systick-delay)
+ - 💫 [STM32F4 Embedded Rust at the PAC: System Clock Configuration](https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-pac-system-clock-configuration)
+ - 🚀 [STM32F4 Embedded Rust at the PAC: GPIO Control](https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-pac-gpio-control)
+ - 💫 [STM32F4 Embedded Rust at the PAC: svd2rust](https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-pac-svd2rust)<!-- BLOGPOSTS:END -->
