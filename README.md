@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 #### :books: Some Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [STM32F4 Embedded Rust at the PAC: Creating Hardware Abstractions with embedded-hal](https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-pac-creating-hardware-abstractions-with-embedded-hal)
- - 🌮 [STM32F4 Embedded Rust at the PAC: Creating Hardware Abstractions](https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-pac-creating-hardware-abstractions)
- - 💫 [STM32F4 Embedded Rust at the PAC: GPIO Interrupts](https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-pac-gpio-interrupts)
- - 🚀 [STM32F4 Embedded Rust at the PAC: UART Communication](https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-pac-uart-communication)
- - 💫 [STM32F4 Embedded Rust at the PAC: SysTick Delay](https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-pac-systick-delay)<!-- BLOGPOSTS:END -->
+ - 💫 [58 Rust Resources Every Learner Should Know in 2023](https://apollolabsblog.hashnode.dev/58-rust-resources-every-learner-should-know-in-2023)
+ - 🌮 [STM32F4 Embedded Rust at the PAC: Creating Hardware Abstractions with embedded-hal](https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-pac-creating-hardware-abstractions-with-embedded-hal)
+ - 💫 [STM32F4 Embedded Rust at the PAC: Creating Hardware Abstractions](https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-pac-creating-hardware-abstractions)
+ - 🚀 [STM32F4 Embedded Rust at the PAC: GPIO Interrupts](https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-pac-gpio-interrupts)
+ - 💫 [STM32F4 Embedded Rust at the PAC: UART Communication](https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-pac-uart-communication)<!-- BLOGPOSTS:END -->
