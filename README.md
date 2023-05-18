@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 #### :books: Some Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [ESP32 Embedded Rust at the HAL: PWM Buzzer](https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-pwm-buzzer)
- - 🌮 [ESP32 Embedded Rust at the HAL: UART Serial Communication](https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-uart-serial-communication)
- - 💫 [ESP32 Embedded Rust at the HAL: Button-Controlled Blinking by Timer Polling](https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-button-controlled-blinking-by-timer-polling)
- - 🚀 [ESP32 Embedded Rust at the HAL: GPIO Button Controlled Blinking](https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-gpio-button-controlled-blinking)
- - 💫 [58 Rust Resources Every Learner Should Know in 2023](https://apollolabsblog.hashnode.dev/58-rust-resources-every-learner-should-know-in-2023)<!-- BLOGPOSTS:END -->
+ - 💫 [ESP32 Embedded Rust at the HAL: Timer Ultrasonic Distance Measurement](https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-timer-ultrasonic-distance-measurement)
+ - 🌮 [ESP32 Embedded Rust at the HAL: PWM Buzzer](https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-pwm-buzzer)
+ - 💫 [ESP32 Embedded Rust at the HAL: UART Serial Communication](https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-uart-serial-communication)
+ - 🚀 [ESP32 Embedded Rust at the HAL: Button-Controlled Blinking by Timer Polling](https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-button-controlled-blinking-by-timer-polling)
+ - 💫 [ESP32 Embedded Rust at the HAL: GPIO Button Controlled Blinking](https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-gpio-button-controlled-blinking)<!-- BLOGPOSTS:END -->
