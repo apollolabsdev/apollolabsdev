@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 #### :books: Some Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [ESP32 Embedded Rust at the HAL: SPI Communication](https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-spi-communication)
- - 🌮 [ESP32 Embedded Rust at the HAL: GPIO Interrupts](https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-gpio-interrupts)
- - 💫 [ESP32 Embedded Rust at the HAL: Analog Temperature Sensing using the ADC](https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-analog-temperature-sensing-using-the-adc)
- - 🚀 [ESP32 Embedded Rust at the HAL: Timer Ultrasonic Distance Measurement](https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-timer-ultrasonic-distance-measurement)
- - 💫 [ESP32 Embedded Rust at the HAL: PWM Buzzer](https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-pwm-buzzer)<!-- BLOGPOSTS:END -->
+ - 💫 [ESP32 Embedded Rust at the HAL: Random Number Generator](https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-random-number-generator)
+ - 🌮 [ESP32 Embedded Rust at the HAL: SPI Communication](https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-spi-communication)
+ - 💫 [ESP32 Embedded Rust at the HAL: GPIO Interrupts](https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-gpio-interrupts)
+ - 🚀 [ESP32 Embedded Rust at the HAL: Analog Temperature Sensing using the ADC](https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-analog-temperature-sensing-using-the-adc)
+ - 💫 [ESP32 Embedded Rust at the HAL: Timer Ultrasonic Distance Measurement](https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-timer-ultrasonic-distance-measurement)<!-- BLOGPOSTS:END -->
