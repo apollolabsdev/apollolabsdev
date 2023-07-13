@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 #### :books: Some Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Innovation Made Easy: 7 Hidden Features to Harness the Power of ESP in Wokwi](https://apollolabsblog.hashnode.dev/innovation-made-easy-7-hidden-features-to-harness-the-power-of-esp-in-wokwi)
- - 🌮 [Unlocking Possibilities: 4 Reasons Why ESP32 and Rust Make a Winning Combination](https://apollolabsblog.hashnode.dev/unlocking-possibilities-4-reasons-why-esp32-and-rust-make-a-winning-combination)
- - 💫 [ESP32 Embedded Rust at the HAL: Remote Control Peripheral](https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-remote-control-peripheral)
- - 🚀 [ESP32 Embedded Rust at the HAL: Random Number Generator](https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-random-number-generator)
- - 💫 [ESP32 Embedded Rust at the HAL: SPI Communication](https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-spi-communication)<!-- BLOGPOSTS:END -->
+ - 💫 [ESP32 Standard Library Embedded Rust: GPIO Control](https://apollolabsblog.hashnode.dev/esp32-standard-library-embedded-rust-gpio-control)
+ - 🌮 [Innovation Made Easy: 7 Hidden Features to Harness the Power of ESP in Wokwi](https://apollolabsblog.hashnode.dev/innovation-made-easy-7-hidden-features-to-harness-the-power-of-esp-in-wokwi)
+ - 💫 [Unlocking Possibilities: 4 Reasons Why ESP32 and Rust Make a Winning Combination](https://apollolabsblog.hashnode.dev/unlocking-possibilities-4-reasons-why-esp32-and-rust-make-a-winning-combination)
+ - 🚀 [ESP32 Embedded Rust at the HAL: Remote Control Peripheral](https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-remote-control-peripheral)
+ - 💫 [ESP32 Embedded Rust at the HAL: Random Number Generator](https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-random-number-generator)<!-- BLOGPOSTS:END -->
