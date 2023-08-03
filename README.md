@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 #### :books: Some Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [ESP32 Standard Library Embedded Rust: I2C Communication](https://apollolabsblog.hashnode.dev/esp32-standard-library-embedded-rust-i2c-communication)
- - 🌮 [ESP32 Standard Library Embedded Rust: UART Communication](https://apollolabsblog.hashnode.dev/esp32-standard-library-embedded-rust-uart-communication)
- - 💫 [ESP32 Standard Library Embedded Rust: GPIO Control](https://apollolabsblog.hashnode.dev/esp32-standard-library-embedded-rust-gpio-control)
- - 🚀 [Innovation Made Easy: 7 Hidden Features to Harness the Power of ESP in Wokwi](https://apollolabsblog.hashnode.dev/innovation-made-easy-7-hidden-features-to-harness-the-power-of-esp-in-wokwi)
- - 💫 [Unlocking Possibilities: 4 Reasons Why ESP32 and Rust Make a Winning Combination](https://apollolabsblog.hashnode.dev/unlocking-possibilities-4-reasons-why-esp32-and-rust-make-a-winning-combination)<!-- BLOGPOSTS:END -->
+ - 💫 [ESP32 Standard Library Embedded Rust: Timers](https://apollolabsblog.hashnode.dev/esp32-standard-library-embedded-rust-timers)
+ - 🌮 [ESP32 Standard Library Embedded Rust: I2C Communication](https://apollolabsblog.hashnode.dev/esp32-standard-library-embedded-rust-i2c-communication)
+ - 💫 [ESP32 Standard Library Embedded Rust: UART Communication](https://apollolabsblog.hashnode.dev/esp32-standard-library-embedded-rust-uart-communication)
+ - 🚀 [ESP32 Standard Library Embedded Rust: GPIO Control](https://apollolabsblog.hashnode.dev/esp32-standard-library-embedded-rust-gpio-control)
+ - 💫 [Innovation Made Easy: 7 Hidden Features to Harness the Power of ESP in Wokwi](https://apollolabsblog.hashnode.dev/innovation-made-easy-7-hidden-features-to-harness-the-power-of-esp-in-wokwi)<!-- BLOGPOSTS:END -->
