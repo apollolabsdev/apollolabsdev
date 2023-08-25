@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 #### :books: Some Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [ESP32 Standard Library Embedded Rust: Analog Temperature Sensing using the ADC](https://apollolabsblog.hashnode.dev/esp32-standard-library-embedded-rust-analog-temperature-sensing-using-the-adc)
- - 🌮 [ESP32 Standard Library Embedded Rust: PWM Servo Motor Sweep](https://apollolabsblog.hashnode.dev/esp32-standard-library-embedded-rust-pwm-servo-motor-sweep)
- - 💫 [ESP32 Standard Library Embedded Rust: Timers](https://apollolabsblog.hashnode.dev/esp32-standard-library-embedded-rust-timers)
- - 🚀 [ESP32 Standard Library Embedded Rust: I2C Communication](https://apollolabsblog.hashnode.dev/esp32-standard-library-embedded-rust-i2c-communication)
- - 💫 [ESP32 Standard Library Embedded Rust: UART Communication](https://apollolabsblog.hashnode.dev/esp32-standard-library-embedded-rust-uart-communication)<!-- BLOGPOSTS:END -->
+ - 💫 [ESP32 Standard Library Embedded Rust: SPI with the MAX7219 LED Dot Matrix](https://apollolabsblog.hashnode.dev/esp32-standard-library-embedded-rust-spi-with-the-max7219-led-dot-matrix)
+ - 🌮 [ESP32 Standard Library Embedded Rust: Analog Temperature Sensing using the ADC](https://apollolabsblog.hashnode.dev/esp32-standard-library-embedded-rust-analog-temperature-sensing-using-the-adc)
+ - 💫 [ESP32 Standard Library Embedded Rust: PWM Servo Motor Sweep](https://apollolabsblog.hashnode.dev/esp32-standard-library-embedded-rust-pwm-servo-motor-sweep)
+ - 🚀 [ESP32 Standard Library Embedded Rust: Timers](https://apollolabsblog.hashnode.dev/esp32-standard-library-embedded-rust-timers)
+ - 💫 [ESP32 Standard Library Embedded Rust: I2C Communication](https://apollolabsblog.hashnode.dev/esp32-standard-library-embedded-rust-i2c-communication)<!-- BLOGPOSTS:END -->
