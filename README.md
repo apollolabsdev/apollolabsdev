@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 #### :books: Some Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Edge IoT with Rust on ESP: HTTP Client](https://apollolabsblog.hashnode.dev/edge-iot-with-rust-on-esp-http-client)
- - 🌮 [Edge IoT with Rust on ESP: Connecting WiFi](https://apollolabsblog.hashnode.dev/edge-iot-with-rust-on-esp-connecting-wifi)
- - 💫 [ESP Embedded Rust: Multithreading with FreeRTOS Bindings](https://apollolabsblog.hashnode.dev/esp-embedded-rust-multithreading-with-freertos-bindings)
- - 🚀 [The Embedded Rust ESP Development Ecosystem](https://apollolabsblog.hashnode.dev/the-embedded-rust-esp-development-ecosystem)
- - 💫 [ESP32 Standard Library Embedded Rust: GPIO Interrupts](https://apollolabsblog.hashnode.dev/esp32-standard-library-embedded-rust-gpio-interrupts)<!-- BLOGPOSTS:END -->
+ - 💫 [Edge IoT with Rust on ESP: HTTP Server](https://apollolabsblog.hashnode.dev/edge-iot-with-rust-on-esp-http-server)
+ - 🌮 [Edge IoT with Rust on ESP: HTTP Client](https://apollolabsblog.hashnode.dev/edge-iot-with-rust-on-esp-http-client)
+ - 💫 [Edge IoT with Rust on ESP: Connecting WiFi](https://apollolabsblog.hashnode.dev/edge-iot-with-rust-on-esp-connecting-wifi)
+ - 🚀 [ESP Embedded Rust: Multithreading with FreeRTOS Bindings](https://apollolabsblog.hashnode.dev/esp-embedded-rust-multithreading-with-freertos-bindings)
+ - 💫 [The Embedded Rust ESP Development Ecosystem](https://apollolabsblog.hashnode.dev/the-embedded-rust-esp-development-ecosystem)<!-- BLOGPOSTS:END -->
