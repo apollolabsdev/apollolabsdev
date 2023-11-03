@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 #### :books: Some Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Demystifying Embedded Electronics: Your Gateway to Simplicity](https://apollolabsblog.hashnode.dev/demystifying-embedded-electronics-your-gateway-to-simplicity)
- - 🌮 [Edge IoT with Rust on ESP: HTTP Server](https://apollolabsblog.hashnode.dev/edge-iot-with-rust-on-esp-http-server)
- - 💫 [Edge IoT with Rust on ESP: HTTP Client](https://apollolabsblog.hashnode.dev/edge-iot-with-rust-on-esp-http-client)
- - 🚀 [Edge IoT with Rust on ESP: Connecting WiFi](https://apollolabsblog.hashnode.dev/edge-iot-with-rust-on-esp-connecting-wifi)
- - 💫 [ESP Embedded Rust: Multithreading with FreeRTOS Bindings](https://apollolabsblog.hashnode.dev/esp-embedded-rust-multithreading-with-freertos-bindings)<!-- BLOGPOSTS:END -->
+ - 💫 [Edge IoT with Rust on ESP: NTP](https://apollolabsblog.hashnode.dev/edge-iot-with-rust-on-esp-ntp)
+ - 🌮 [Demystifying Embedded Electronics: Your Gateway to Simplicity](https://apollolabsblog.hashnode.dev/demystifying-embedded-electronics-your-gateway-to-simplicity)
+ - 💫 [Edge IoT with Rust on ESP: HTTP Server](https://apollolabsblog.hashnode.dev/edge-iot-with-rust-on-esp-http-server)
+ - 🚀 [Edge IoT with Rust on ESP: HTTP Client](https://apollolabsblog.hashnode.dev/edge-iot-with-rust-on-esp-http-client)
+ - 💫 [Edge IoT with Rust on ESP: Connecting WiFi](https://apollolabsblog.hashnode.dev/edge-iot-with-rust-on-esp-connecting-wifi)<!-- BLOGPOSTS:END -->
