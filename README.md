@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 #### :books: Some Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Edge IoT with Rust on ESP: MQTT Subscriber](https://apollolabsblog.hashnode.dev/edge-iot-with-rust-on-esp-mqtt-subscriber)
- - 🌮 [Edge IoT with Rust on ESP: NTP](https://apollolabsblog.hashnode.dev/edge-iot-with-rust-on-esp-ntp)
- - 💫 [Demystifying Embedded Electronics: Your Gateway to Simplicity](https://apollolabsblog.hashnode.dev/demystifying-embedded-electronics-your-gateway-to-simplicity)
- - 🚀 [Edge IoT with Rust on ESP: HTTP Server](https://apollolabsblog.hashnode.dev/edge-iot-with-rust-on-esp-http-server)
- - 💫 [Edge IoT with Rust on ESP: HTTP Client](https://apollolabsblog.hashnode.dev/edge-iot-with-rust-on-esp-http-client)<!-- BLOGPOSTS:END -->
+ - 💫 [Edge IoT with Rust on ESP: MQTT Publisher](https://apollolabsblog.hashnode.dev/edge-iot-with-rust-on-esp-mqtt-publisher)
+ - 🌮 [Edge IoT with Rust on ESP: MQTT Subscriber](https://apollolabsblog.hashnode.dev/edge-iot-with-rust-on-esp-mqtt-subscriber)
+ - 💫 [Edge IoT with Rust on ESP: NTP](https://apollolabsblog.hashnode.dev/edge-iot-with-rust-on-esp-ntp)
+ - 🚀 [Demystifying Embedded Electronics: Your Gateway to Simplicity](https://apollolabsblog.hashnode.dev/demystifying-embedded-electronics-your-gateway-to-simplicity)
+ - 💫 [Edge IoT with Rust on ESP: HTTP Server](https://apollolabsblog.hashnode.dev/edge-iot-with-rust-on-esp-http-server)<!-- BLOGPOSTS:END -->
