@@ -4,7 +4,7 @@ I'm an embedded systems enthusiast thats currently working on improving the lear
 
 Click [here](https://apollolabsblog.hashnode.dev/) to access my blog.
 
-To keep up to date with what I'm doing and my posts you can either follow me on Twitter my handle is [@apollolabsdev](https://twitter.com/apollolabsbin) or you can subscribe to the newsletter [here](http://subscribepage.io/apollolabsnewsletter).
+To keep up to date with what I'm doing and my posts you can either follow me on Twitter my handle is [@apollolabsdev](https://twitter.com/apollolabsbin) or you can subscribe to The Embedded Rustacean newsletter [here](https://www.theembeddedrustacean.com/subscribe).
 
 <!--
 **apollolabsdev/apollolabsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
