@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 #### :books: Some Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Embassy on ESP: Timers](https://apollolabsblog.hashnode.dev/embassy-on-esp-timers)
- - 🌮 [Embassy on ESP: UART Echo](https://apollolabsblog.hashnode.dev/embassy-on-esp-uart-echo)
- - 💫 [Embedded Rust Education: 2023 Reflections &amp; 2024 Visions](https://apollolabsblog.hashnode.dev/embedded-rust-education-2023-reflections-2024-visions)
- - 🚀 [Embassy on ESP: UART Transmitter](https://apollolabsblog.hashnode.dev/embassy-on-esp-uart-transmitter)
- - 💫 [Embassy on ESP: GPIO](https://apollolabsblog.hashnode.dev/embassy-on-esp-gpio)<!-- BLOGPOSTS:END -->
+ - 💫 [ESP32 Embedded Rust at the HAL: I2C Scanner](https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-i2c-scanner)
+ - 🌮 [Embassy on ESP: Timers](https://apollolabsblog.hashnode.dev/embassy-on-esp-timers)
+ - 💫 [Embassy on ESP: UART Echo](https://apollolabsblog.hashnode.dev/embassy-on-esp-uart-echo)
+ - 🚀 [Embedded Rust Education: 2023 Reflections &amp; 2024 Visions](https://apollolabsblog.hashnode.dev/embedded-rust-education-2023-reflections-2024-visions)
+ - 💫 [Embassy on ESP: UART Transmitter](https://apollolabsblog.hashnode.dev/embassy-on-esp-uart-transmitter)<!-- BLOGPOSTS:END -->
