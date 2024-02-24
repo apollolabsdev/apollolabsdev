@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 #### :books: Some Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [ESP Embedded Rust: Ping CLI App Part  1](https://apollolabsblog.hashnode.dev/esp-embedded-rust-ping-cli-app-part-1)
- - 🌮 [Edge IoT with Rust on ESP: Ping!](https://apollolabsblog.hashnode.dev/edge-iot-with-rust-on-esp-ping)
- - 💫 [ESP Embedded Rust: Command Line Interface](https://apollolabsblog.hashnode.dev/esp-embedded-rust-command-line-interface)
- - 🚀 [ESP32 Embedded Rust at the HAL: I2C Scanner](https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-i2c-scanner)
- - 💫 [Embassy on ESP: Timers](https://apollolabsblog.hashnode.dev/embassy-on-esp-timers)<!-- BLOGPOSTS:END -->
+ - 💫 [ESP Embedded Rust: Ping CLI App Part 2](https://apollolabsblog.hashnode.dev/esp-embedded-rust-ping-cli-app-part-2)
+ - 🌮 [ESP Embedded Rust: Ping CLI App Part  1](https://apollolabsblog.hashnode.dev/esp-embedded-rust-ping-cli-app-part-1)
+ - 💫 [Edge IoT with Rust on ESP: Ping!](https://apollolabsblog.hashnode.dev/edge-iot-with-rust-on-esp-ping)
+ - 🚀 [ESP Embedded Rust: Command Line Interface](https://apollolabsblog.hashnode.dev/esp-embedded-rust-command-line-interface)
+ - 💫 [ESP32 Embedded Rust at the HAL: I2C Scanner](https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-i2c-scanner)<!-- BLOGPOSTS:END -->
