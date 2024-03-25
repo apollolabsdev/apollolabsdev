@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 #### :books: Some Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Embedded Rust Bluetooth on ESP: BLE Advertiser](https://apollolabsblog.hashnode.dev/embedded-rust-bluetooth-on-esp-ble-advertiser)
- - 🌮 [Embedded Rust Bluetooth on ESP: BLE Scanner](https://apollolabsblog.hashnode.dev/embedded-rust-bluetooth-on-esp-ble-scanner)
- - 💫 [Edge IoT with Rust on ESP: WiFi Revisited](https://apollolabsblog.hashnode.dev/edge-iot-with-rust-on-esp-wifi-revisited)
- - 🚀 [ESP Embedded Rust: Ping CLI App Part 2](https://apollolabsblog.hashnode.dev/esp-embedded-rust-ping-cli-app-part-2)
- - 💫 [ESP Embedded Rust: Ping CLI App Part  1](https://apollolabsblog.hashnode.dev/esp-embedded-rust-ping-cli-app-part-1)<!-- BLOGPOSTS:END -->
+ - 💫 [Embedded Rust Bluetooth on ESP: BLE Server](https://apollolabsblog.hashnode.dev/embedded-rust-bluetooth-on-esp-ble-server)
+ - 🌮 [Embedded Rust Bluetooth on ESP: BLE Advertiser](https://apollolabsblog.hashnode.dev/embedded-rust-bluetooth-on-esp-ble-advertiser)
+ - 💫 [Embedded Rust Bluetooth on ESP: BLE Scanner](https://apollolabsblog.hashnode.dev/embedded-rust-bluetooth-on-esp-ble-scanner)
+ - 🚀 [Edge IoT with Rust on ESP: WiFi Revisited](https://apollolabsblog.hashnode.dev/edge-iot-with-rust-on-esp-wifi-revisited)
+ - 💫 [ESP Embedded Rust: Ping CLI App Part 2](https://apollolabsblog.hashnode.dev/esp-embedded-rust-ping-cli-app-part-2)<!-- BLOGPOSTS:END -->
