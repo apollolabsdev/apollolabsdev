@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 #### :books: Some Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Embedded Rust Bluetooth on ESP: Secure BLE Server](https://blog.theembeddedrustacean.com/embedded-rust-bluetooth-on-esp-secure-ble-server)
- - 🌮 [Embedded Rust Bluetooth on ESP: Secure BLE Client](https://blog.theembeddedrustacean.com/embedded-rust-bluetooth-on-esp-secure-ble-client)
- - 💫 [Embedded Rust Bluetooth on ESP: BLE Client](https://blog.theembeddedrustacean.com/embedded-rust-bluetooth-on-esp-ble-client)
- - 🚀 [Embedded Rust Bluetooth on ESP: BLE Server](https://blog.theembeddedrustacean.com/embedded-rust-bluetooth-on-esp-ble-server)
- - 💫 [Embedded Rust Bluetooth on ESP: BLE Advertiser](https://blog.theembeddedrustacean.com/embedded-rust-bluetooth-on-esp-ble-advertiser)<!-- BLOGPOSTS:END -->
+ - 💫 [From Zero to Rust: Simplified Embedded Systems Programming](https://blog.theembeddedrustacean.com/from-zero-to-rust-simplified-embedded-systems-programming)
+ - 🌮 [Embedded Rust Bluetooth on ESP: Secure BLE Server](https://blog.theembeddedrustacean.com/embedded-rust-bluetooth-on-esp-secure-ble-server)
+ - 💫 [Embedded Rust Bluetooth on ESP: Secure BLE Client](https://blog.theembeddedrustacean.com/embedded-rust-bluetooth-on-esp-secure-ble-client)
+ - 🚀 [Embedded Rust Bluetooth on ESP: BLE Client](https://blog.theembeddedrustacean.com/embedded-rust-bluetooth-on-esp-ble-client)
+ - 💫 [Embedded Rust Bluetooth on ESP: BLE Server](https://blog.theembeddedrustacean.com/embedded-rust-bluetooth-on-esp-ble-server)<!-- BLOGPOSTS:END -->
